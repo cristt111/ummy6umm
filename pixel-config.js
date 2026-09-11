@@ -19,7 +19,7 @@ window.__PIXEL_CONFIG__ = {
   // false = click-only. Nothing is sent, and nothing is even loaded from
   //         Meta, until a visitor clicks one of the buttons.
   // true  = also report every page visit as a PageView.
-  trackPageView: false,
+  trackPageView: true,
 
   // Which Meta event each button reports.
   // 'Lead' is the one to pick as your conversion in Ads Manager.
